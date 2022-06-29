@@ -13,7 +13,7 @@ pygmentsCodeFences = true
 style = "dracula"
 
 [permalinks]
-posts = "/:year/:month/:title"
+posts = "/posts/:slug"
 
 [params]
 copyright = 'Copyright © 2022 w3irdrobot'
