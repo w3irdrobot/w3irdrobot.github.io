@@ -5,7 +5,7 @@ title: Iterating Backwards Through A Ruby Array
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=386
-url: /article/iterating-backwards-ruby-array
+url: /posts/iterating-backwards-ruby-array
 dsq_thread_id:
   - 2754345485
 categories:

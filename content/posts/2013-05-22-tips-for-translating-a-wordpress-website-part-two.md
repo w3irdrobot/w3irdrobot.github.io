@@ -5,7 +5,7 @@ title: Tips for Translating a WordPress Website, Part Two
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=44
-url: /article/tips-for-translating-a-wordpress-website-part-two
+url: /posts/tips-for-translating-a-wordpress-website-part-two
 dsq_thread_id:
   - 1308130029
 categories:
@@ -83,7 +83,7 @@ Sometimes, to get the results we need, it may be necessary to think outside of t
   * [`_e()` Function Reference &#8211; WordPress][3]
   * [`__()` Function Reference &#8211; WordPress][4]
 
- [1]: http://alexsears.com/articles/tips-for-translating-a-wordpress-website-using-wpml
+ [1]: http://alexsears.com/posts/tips-for-translating-a-wordpress-website-using-wpml
  [2]: http://wpml.org/documentation/support/creating-multilingual-wordpress-themes/language-dependent-ids/
  [3]: http://codex.wordpress.org/Function_Reference/_e
  [4]: http://codex.wordpress.org/Function_Reference/_2

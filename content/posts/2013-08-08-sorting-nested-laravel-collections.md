@@ -5,7 +5,7 @@ title: Sorting Nested Laravel Collections
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=242
-url: /article/sorting-nested-laravel-collections
+url: /posts/sorting-nested-laravel-collections
 dsq_thread_id:
   - 1585550700
 categories:

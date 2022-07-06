@@ -5,7 +5,7 @@ title: Create an Admin Interface in Laravel
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=349
-url: /tutorial/create-admin-interface-laravel
+url: /posts/create-admin-interface-laravel
 dsq_thread_id:
   - 2452939292
 categories:
@@ -613,7 +613,7 @@ As you can see, Laravel makes doing common tasks super easy! One thing we should
  [3]: http://fortawesome.github.io/Font-Awesome/
  [4]: http://en.wikipedia.org/wiki/Representational_state_transfer
  [5]: http://laravel.com/docs/controllers#resource-controllers
- [7]: http://alexsears.com/article/adding-roles-to-laravel-users
- [8]: http://alexsears.com/article/using-entrust-to-add-roles-and-permissions-to-laravel-4
+ [7]: http://alexsears.com/posts/adding-roles-to-laravel-users
+ [8]: http://alexsears.com/posts/using-entrust-to-add-roles-and-permissions-to-laravel-4
  [9]: https://github.com/searsaw/Drawbridge
  [10]: http://laravel.com/docs

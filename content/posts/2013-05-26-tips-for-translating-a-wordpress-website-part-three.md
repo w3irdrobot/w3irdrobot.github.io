@@ -5,7 +5,7 @@ title: Tips for Translating a WordPress Website, Part Three
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=63
-url: /article/tips-for-translating-a-wordpress-website-part-three
+url: /posts/tips-for-translating-a-wordpress-website-part-three
 dsq_thread_id:
   - 1341303950
 categories:
@@ -68,7 +68,7 @@ Not everything involving translation has to be difficult. As you saw, some thing
   * [`is_page()` Function Reference][3]
   * [WPML Core and Add-on Plugins][4]
 
- [1]: http://alexsears.com/articles/tips-for-translating-a-wordpress-website-part-two
+ [1]: http://alexsears.com/posts/tips-for-translating-a-wordpress-website-part-two
  [2]: http://wpml.org/documentation/support/creating-multilingual-wordpress-themes/language-dependent-ids/
  [3]: http://codex.wordpress.org/Function_Reference/is_page
  [4]: http://wpml.org/documentation/wpml-core-and-add-on-plugins/

@@ -5,7 +5,7 @@ title: Responsive Images
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=181
-url: /article/responsive-images
+url: /posts/responsive-images
 dsq_thread_id:
   - 1482045290
 categories:

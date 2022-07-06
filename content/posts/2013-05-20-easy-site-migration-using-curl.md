@@ -5,7 +5,7 @@ title: Easy Site Migration Using cURL
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=130
-url: /article/easy-site-migration-using-curl
+url: /posts/easy-site-migration-using-curl
 dsq_thread_id:
   - 1300437858
 categories:

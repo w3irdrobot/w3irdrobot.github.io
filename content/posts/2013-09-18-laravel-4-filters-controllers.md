@@ -5,7 +5,7 @@ title: Laravel 4 Filters in Controllers
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=256
-url: /article/laravel-4-filters-controllers
+url: /posts/laravel-4-filters-controllers
 dsq_thread_id:
   - 1774670350
 categories:

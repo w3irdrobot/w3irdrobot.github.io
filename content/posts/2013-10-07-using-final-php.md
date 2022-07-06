@@ -5,7 +5,7 @@ title: Using final in PHP
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=277
-url: /article/using-final-php
+url: /posts/using-final-php
 dsq_thread_id:
   - 1842815840
 categories:

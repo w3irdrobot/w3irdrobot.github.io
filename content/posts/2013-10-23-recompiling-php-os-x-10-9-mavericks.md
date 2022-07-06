@@ -5,7 +5,7 @@ title: Recompiling PHP on OS X 10.9 Mavericks
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=294
-url: /article/recompiling-php-os-x-10-9-mavericks
+url: /posts/recompiling-php-os-x-10-9-mavericks
 dsq_thread_id:
   - 1891045926
 categories:
@@ -46,5 +46,5 @@ I also had issue when using `make test`. It couldn&#8217;t find my `iodbcext.h` 
 brew install unixodbc
 ```
 
- [1]: http://mac.tutsplus.com/tutorials/server/upgrading-the-native-php-installation-on-os-x-mountain-lion/
+ [1]: http://mac.tutsplus.com/posts/server/upgrading-the-native-php-installation-on-os-x-mountain-lion/
  [2]: http://www.php.net

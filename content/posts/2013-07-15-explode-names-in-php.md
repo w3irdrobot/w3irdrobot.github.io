@@ -5,7 +5,7 @@ title: Explode Names in PHP
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=211
-url: /article/explode-names-in-php
+url: /posts/explode-names-in-php
 dsq_thread_id:
   - 1509871586
 categories:

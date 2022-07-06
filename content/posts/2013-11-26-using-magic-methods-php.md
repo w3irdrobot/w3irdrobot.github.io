@@ -5,7 +5,7 @@ title: Using Magic Methods in PHP
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=324
-url: /article/using-magic-methods-php
+url: /posts/using-magic-methods-php
 dsq_thread_id:
   - 2002112142
 categories:

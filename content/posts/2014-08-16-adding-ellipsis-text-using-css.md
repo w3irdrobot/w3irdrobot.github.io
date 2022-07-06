@@ -5,7 +5,7 @@ title: Adding Ellipsis to Text Using CSS
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=417
-url: /article/adding-ellipsis-text-using-css
+url: /posts/adding-ellipsis-text-using-css
 dsq_thread_id:
   - 2935022068
 categories:

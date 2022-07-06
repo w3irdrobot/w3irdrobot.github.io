@@ -5,7 +5,7 @@ title: Querying by Custom Fields in WordPress
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=336
-url: /article/querying-custom-fields-wordpress
+url: /posts/querying-custom-fields-wordpress
 dsq_thread_id:
   - 2402731743
 categories:

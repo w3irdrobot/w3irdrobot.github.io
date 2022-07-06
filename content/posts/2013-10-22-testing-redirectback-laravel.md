@@ -5,7 +5,7 @@ title: Testing Redirect::back() in Laravel
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=291
-url: /article/testing-redirectback-laravel
+url: /posts/testing-redirectback-laravel
 dsq_thread_id:
   - 1873240849
 categories:

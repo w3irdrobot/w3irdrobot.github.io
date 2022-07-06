@@ -5,7 +5,7 @@ title: Persisting Guest Users in Rails with Devise
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=422
-url: /article/persisting-guest-users-rails-devise
+url: /posts/persisting-guest-users-rails-devise
 dsq_thread_id:
   - 2940402187
 categories:

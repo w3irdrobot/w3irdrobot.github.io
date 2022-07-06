@@ -5,7 +5,7 @@ title: Rendering HTML as PHP
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=222
-url: /article/rendering-html-as-php
+url: /posts/rendering-html-as-php
 dsq_thread_id:
   - 1673616094
 categories:

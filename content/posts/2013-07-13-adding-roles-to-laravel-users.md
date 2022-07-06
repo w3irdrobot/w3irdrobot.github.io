@@ -5,7 +5,7 @@ title: Adding Roles to Laravel Users
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=186
-url: /article/adding-roles-to-laravel-users
+url: /posts/adding-roles-to-laravel-users
 dsq_thread_id:
   - 1498807373
 categories:

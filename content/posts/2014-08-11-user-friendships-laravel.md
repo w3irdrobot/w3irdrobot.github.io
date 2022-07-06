@@ -5,7 +5,7 @@ title: User Friendships in Laravel
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=397
-url: /tutorial/user-friendships-laravel
+url: /posts/user-friendships-laravel
 dsq_thread_id:
   - 2916980577
 categories:
@@ -514,5 +514,5 @@ Some database concepts can be confusing to picture. However, once you have your 
  [2]: http://iterm2.com/
  [3]: http://laravel.com/docs/eloquent
  [4]: http://laravel.com/docs/eloquent#relationships
- [5]: http://alexsears.com/tutorial/create-admin-interface-laravel
+ [5]: http://alexsears.com/posts/create-admin-interface-laravel
  [6]: http://foundation.zurb.com/docs/

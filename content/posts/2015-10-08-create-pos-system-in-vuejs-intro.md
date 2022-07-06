@@ -5,7 +5,7 @@ title: Create a POS System in Vue.js - Introduction
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=418
-url: /article/create-pos-system-in-vuejs-intro
+url: /posts/create-pos-system-in-vuejs-intro
 seo_description: Vue.js is a view library that updates the physical DOM based on state managed in JavaScript. Together we will build a simple POS system that demonstrates its power.
 categories:
   - Article

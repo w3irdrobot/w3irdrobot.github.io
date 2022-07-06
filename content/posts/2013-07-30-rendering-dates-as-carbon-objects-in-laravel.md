@@ -5,7 +5,7 @@ title: Rendering Dates as Carbon objects in Laravel
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=229
-url: /article/rendering-dates-as-carbon-objects-in-laravel
+url: /posts/rendering-dates-as-carbon-objects-in-laravel
 dsq_thread_id:
   - 1562453261
 categories:

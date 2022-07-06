@@ -5,7 +5,7 @@ title: Tips for Translating a WordPress Website, Part One
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=16
-url: /article/tips-for-translating-a-wordpress-website-using-wpml
+url: /posts/tips-for-translating-a-wordpress-website-using-wpml
 dsq_thread_id:
   - 1297400371
 categories:

@@ -5,7 +5,7 @@ title: Using Entrust to Add Roles and Permissions to Laravel 4
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=303
-url: /article/using-entrust-to-add-roles-and-permissions-to-laravel-4
+url: /posts/using-entrust-to-add-roles-and-permissions-to-laravel-4
 dsq_thread_id:
   - 1943444115
 categories:
@@ -236,10 +236,10 @@ As you can see, the possibilities are endless when using Entrust to help secure 
   * [Entrust on GitHub][2]
   * [Group vs. Role &#8211; StackOverflow][7]
 
- [1]: http://alexsears.com/article/adding-roles-to-laravel-users
+ [1]: http://alexsears.com/posts/adding-roles-to-laravel-users
  [2]: https://github.com/Zizaco/entrust
  [3]: https://github.com/Zizaco
  [4]: http://getcomposer.org/
  [5]: http://php.net/manual/en/language.oop5.traits.php
- [6]: http://alexsears.com/article/laravel-4-filters-controllers
+ [6]: http://alexsears.com/posts/laravel-4-filters-controllers
  [7]: http://stackoverflow.com/questions/7770728/group-vs-role-any-real-difference

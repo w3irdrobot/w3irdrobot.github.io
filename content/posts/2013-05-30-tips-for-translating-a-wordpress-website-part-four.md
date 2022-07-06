@@ -5,7 +5,7 @@ title: Tips for Translating a WordPress Website, Part Four
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=84
-url: /article/tips-for-translating-a-wordpress-website-part-four
+url: /posts/tips-for-translating-a-wordpress-website-part-four
 dsq_thread_id:
   - 1340972724
 categories:
@@ -83,5 +83,5 @@ I hope these past couple of blog posts have helped you by not only giving you so
   * [Adding and Customizing Language Switchers][1]
   * [Language Setup][2]
 
- [1]: http://wpml.org/tutorials/adding-and-customizing-language-switchers/
+ [1]: http://wpml.org/posts/adding-and-customizing-language-switchers/
  [2]: http://wpml.org/documentation/getting-started-guide/language-setup/

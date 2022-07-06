@@ -5,7 +5,7 @@ title: Using View Composers in Laravel 4
 author: Alex Sears
 layout: post
 guid: http://alexsears.com/?p=285
-url: /article/using-view-composers-laravel-4
+url: /posts/using-view-composers-laravel-4
 dsq_thread_id:
   - 1861645455
 categories:
