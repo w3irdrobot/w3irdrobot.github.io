@@ -1,29 +1,36 @@
-baseURL = 'https://w3irdrobot.codes/'
-canonifyurls = true
+baseURL         = 'https://w3irdrobot.codes/'
+canonifyurls    = true
 enableRobotsTXT = true
-languageCode = 'en-us'
-paginate = 20
-theme = 'etch'
-title = 'w3irdrobot.codes'
+languageCode    = 'en-us'
+paginate        = 20
+theme           = 'etch'
+title           = 'w3irdrobot.codes'
 
-pygmentsUseClasses = true
 pygmentsCodeFences = true
+pygmentsUseClasses = true
 
 [markup.highlight]
-style = "dracula"
+  style = "dracula"
 
 [permalinks]
-posts = "/posts/:slug"
+  posts = "/posts/:slug"
 
 [params]
-copyright = 'Copyright © 2022 w3irdrobot'
-dark = 'auto'
-description = 'I write and talk about code and probably talk shit about Python at some point as well.'
-highlight = true
+  copyright   = 'Copyright © 2022 w3irdrobot'
+  dark        = 'auto'
+  description = 'I write and talk about code and probably talk shit about Python at some point as well.'
+  highlight   = true
 
 [[menu.main]]
-identifier = "posts"
-name = "posts"
-title = "posts"
-url = "/"
-weight = 10
+  identifier = "posts"
+  name       = "posts"
+  title      = "posts"
+  url        = "/"
+  weight     = 10
+
+[[menu.main]]
+  identifier = "pgp"
+  name       = "pgp"
+  title      = "pgp"
+  url        = "/pgp"
+  weight     = 20
