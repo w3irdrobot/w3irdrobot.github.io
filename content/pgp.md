@@ -1,5 +1,5 @@
 ---
-title: "PGP"
+title: "pgp"
 slug: /pgp
 ---
 
