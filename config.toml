@@ -34,3 +34,10 @@ pygmentsUseClasses = true
   title      = "pgp"
   url        = "/pgp"
   weight     = 20
+
+[[menu.main]]
+  identifier = "links"
+  name       = "links"
+  title      = "links"
+  url        = "/links"
+  weight     = 30
