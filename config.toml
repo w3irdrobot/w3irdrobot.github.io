@@ -27,10 +27,3 @@ name = "posts"
 title = "posts"
 url = "/"
 weight = 10
-
-[[menu.main]]
-identifier = "links"
-name = "links"
-title = "links"
-url = "/links"
-weight = 30
