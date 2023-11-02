@@ -1,10 +1,10 @@
-baseURL = 'https://blog.w3ird.tech/'
+baseURL = 'https://w3ird.tech/'
 canonifyurls = true
 enableRobotsTXT = true
 languageCode = 'en-us'
 paginate = 20
 theme = 'etch'
-title = 'w3irdrobot blog'
+title = 'w3irdrobot'
 
 pygmentsCodeFences = true
 pygmentsUseClasses = true
