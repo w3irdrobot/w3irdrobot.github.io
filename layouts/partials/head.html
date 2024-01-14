@@ -8,7 +8,7 @@
     <meta name="lightning" content="lnurlp:{{ . }}"/>
     {{ end }}
     {{ with .Site.Params.siteImage -}}
-    {{ printf `<meta name="og:image" content="%s"/>` (. | absURL) | safeHTML }}
+    {{ printf `<meta property="og:image" content="%s"/>` (. | absURL) | safeHTML }}
     {{ end }}
     {{ printf `<link rel="shortcut icon" href="%s">` ("favicon.ico" | absURL) | safeHTML }}
     {{ with .OutputFormats.Get "rss" -}}
