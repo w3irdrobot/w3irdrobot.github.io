@@ -16,7 +16,7 @@ style = "dracula"
 posts = "/posts/:slug"
 
 [params]
-copyright = 'Copyright © 2023 w3irdrobot'
+copyright = 'Copyright © 2024 w3irdrobot'
 dark = 'auto'
 description = 'I write and talk about code and probably talk shit about Python at some point as well.'
 highlight = true
