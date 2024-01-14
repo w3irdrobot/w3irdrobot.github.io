@@ -20,6 +20,8 @@ copyright = 'Copyright © 2023 w3irdrobot'
 dark = 'auto'
 description = 'I write and talk about code and probably talk shit about Python at some point as well.'
 highlight = true
+lnaddress = "w3irdrobot@vlt.ge"
+siteImage = "images/avatar.png"
 
 [[menu.main]]
 identifier = "posts"
