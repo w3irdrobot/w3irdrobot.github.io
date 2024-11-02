@@ -2,12 +2,14 @@ baseURL = 'https://w3ird.tech/'
 canonifyurls = true
 enableRobotsTXT = true
 languageCode = 'en-us'
-paginate = 20
 theme = 'etch'
 title = 'w3irdrobot blog'
 
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+
+[pagination]
+pagerSize = 20
 
 [markup.highlight]
 style = "dracula"
