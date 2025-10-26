@@ -22,7 +22,7 @@ I use the well-written article [Upgrading the Native PHP Installation on OS X Mo
 
 However, I started to run into a ton of issues when configuring the binary from [the PHP website][2]. Can&#8217;t find zlib? Can&#8217;t find openssl? Where is all my stuff?!?!
 
-It turns out that Mavericks moved the command line tools out of XCode into somewhere else. Therefore, I no longer had a `/usr/include` file which contains many of the headers I needed to include these things. However, this raises a new issue. How do I install the CLTs? I found an article titled <a href"http://www.computersnyou.com/2025/2013/06/install-command-line-tools-in-osx-10-9-mavericks-how-to/">Install Command Line Tools In OSX 10.9 Mavericks [ How &#8211; To ]</a> that explains you must run a command in the terminal. So, open a terminal and run:
+It turns out that Mavericks moved the command line tools out of XCode into somewhere else. Therefore, I no longer had a `/usr/include` file which contains many of the headers I needed to include these things. However, this raises a new issue. How do I install the CLTs? I found an article titled [Install Command Line Tools In OSX 10.9 Mavericks](http://www.computersnyou.com/2025/2013/06/install-command-line-tools-in-osx-10-9-mavericks-how-to/) that explains you must run a command in the terminal. So, open a terminal and run:
 
 ```bash
 xcode-select --install
