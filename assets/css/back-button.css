@@ -1,0 +1,6 @@
+/* Back button styles */
+.back-nav .back-button {
+    font-size: 0.9em;
+    padding: 5px 0;
+    display: inline-block;
+}

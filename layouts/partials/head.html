@@ -19,6 +19,8 @@
 
     {{ $resources = $resources | append (resources.Get "css/main.css") -}}
 
+    {{ $resources = $resources | append (resources.Get "css/back-button.css") -}}
+
     {{ $resources = $resources | append (resources.Get "css/min770px.css") -}}
 
     {{ $dark := .Site.Params.dark | default "auto" -}}
