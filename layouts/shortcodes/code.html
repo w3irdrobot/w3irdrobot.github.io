@@ -1,0 +1,38 @@
+{{ $language := .Get "language" }}
+{{ $source := .Get "source" }}
+{{ $options := .Get "options" }}
+{{ $id := .Get "id" }}
+
+{{ with .Page.Resources.GetMatch $source }}
+{{ $snippet := .Content }}
+
+{{ if $id }}
+{{ $lines := split $snippet "\n" }}
+{{ $snippet = "" }}
+
+{{ $startTag := printf "START %s" $id }}
+{{ $endTag := printf "END %s" $id }}
+
+{{ $startl := -1 }}
+{{ $endl := -1 }}
+{{ $hasStarted := false }}
+
+{{/* Find the lines that ends with the start and end tags. */}}
+{{ range $index, $line := $lines }}
+{{ if hasSuffix $line $endTag }}
+{{ break }}
+{{ end }}
+
+{{ if $hasStarted }}
+{{ $snippet = printf "%s\n%s" $snippet $line }}
+{{ end }}
+
+{{ if hasSuffix $line $startTag }}
+{{ $hasStarted = true }}
+{{ end }}
+{{ end }}
+
+{{ end }}
+
+{{ highlight (trim $snippet "\n\r") $language $options }}
+{{ end }}

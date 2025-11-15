@@ -1,0 +1,18 @@
+[package]
+edition = "2024"
+name = "solutions"
+version = "0.1.0"
+
+[dependencies]
+anyhow = "1.0.100"
+bitcoin = { version = "0.32.7", features = ["rand-std"] }
+miniscript = "13.0.0"
+
+[[bin]]
+name = "crying"
+path = "src/crying.rs"
+
+[[bin]]
+name = "wizards"
+path = "src/wizards.rs"
+

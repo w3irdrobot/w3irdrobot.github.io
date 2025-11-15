@@ -3,6 +3,11 @@ title: "capture the bitcoin at tab7: pt 1"
 date: 2025-11-03
 ---
 
+Posts in this series:
+
+1. capture the bitcoin at tab7: pt 1
+1. [capture the bitcoin at tab7: pt 2]({{< relref "ctb7-pt-2" >}})
+
 Every year, a conference is put on in Atlanta, GA called The Atlanta Bitcoin Conference (TABconf). This year (2025) was TAB7. There is a competition put on each year called Capture the Bitcoin or CTB. The idea is to follow the clues to find a private key and use it to sweep the address holding a bunch of sats generously donated by some of the sponsors of the conference.
 
 Finding the private key is no simple feat. It requires solving a long sequence of puzzles that will take a large amount of Bitcoin knowledge. It also requires writing code to solve some of the more difficult ones. Some teams have even developed special tooling for common scenarios that pop up each year.
@@ -51,4 +56,4 @@ Scanning this, which was not easy and involved what might have been some sketchy
 
 We land on a page with a map of Georgia, showing a winding path from TABconf to the Giggler from Jekyll Island. Clicking the button at the bottom to follow the map takes us to a page informing us we have arrived at a wizard's lab.
 
-This is where we will leave it for now. Tune in next time to check out the secret door in the wizard's lab!
+This is where we will leave it for now. [Tune in next time]({{< relref "ctb7-pt-2" >}}) to check out the secret door in the wizard's lab!
