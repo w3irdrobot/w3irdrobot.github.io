@@ -14,9 +14,6 @@ pagerSize = 20
 [markup.highlight]
 style = "dracula"
 
-[markup.goldmark.renderer]
-unsafe = true
-
 [permalinks]
 posts = "/posts/:slug"
 
