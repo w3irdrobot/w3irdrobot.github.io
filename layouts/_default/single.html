@@ -7,9 +7,8 @@
         <h1>{{ .Title }}</h1>
         <div>
         {{- if isset .Params "date" -}}
-            {{ if eq .Lastmod .Date }}
-                <time>{{ .Date | time.Format (i18n "post.created") }}</time>
-            {{ else }}
+            <time>{{ .Date | time.Format (i18n "post.created") }}</time><br />
+            {{ if ne .Lastmod .Date }}
                 <time>{{ .Lastmod | time.Format (i18n "post.updated") }}</time>
             {{ end }}
         {{- end -}}

@@ -1,6 +1,7 @@
 ---
 title: "capture the bitcoin at tab7: pt 2"
 date: 2025-12-07
+lastmod: 2025-12-19
 ---
 
 Posts in this series:
@@ -150,7 +151,7 @@ We can finally sweep the funds by submitting it to our node.
 nigiri push "$(cargo run -q --bin crying)"
 ```
 
-Now that the funds are safe, we can move on.
+Now that the funds are safe, [we can move on](https://tabctb.com/0x07/wristybusiness/lore/7AB7/lab/b64728/d49fa5/abgate.html).
 
 ## locks on lock on locks
 
