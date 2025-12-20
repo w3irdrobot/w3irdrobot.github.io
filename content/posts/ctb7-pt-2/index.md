@@ -1,13 +1,14 @@
 ---
 title: "capture the bitcoin at tab7: pt 2"
 date: 2025-12-07
-lastmod: 2025-12-19
+lastmod: 2025-12-20
 ---
 
 Posts in this series:
 
 1. [capture the bitcoin at tab7: pt 1]({{< relref "ctb7-pt-1" >}})
 1. capture the bitcoin at tab7: pt 2
+1. [capture the bitcoin at tab7: pt 3]({{< relref "ctb7-pt-3" >}})
 
 Last week, [we started our journey]({{< relref "ctb7-pt-1" >}}) toward solving the TAB7 CTB. We [ended in a wizard's lab](https://tabctb.com/0x07/wristybusiness/lore/7AB7/lab.html), with some trippy looking wizards playing scientist and a strange door looming behind them.
 
@@ -155,4 +156,4 @@ Now that the funds are safe, [we can move on](https://tabctb.com/0x07/wristybusi
 
 ## locks on lock on locks
 
-Arriving at a gate with two locks, we decide to take a rest. Come back next time to find out how to get through the gate and its quirky locks.
+Arriving at a gate with two locks, we decide to take a rest. [Come back next time]({{< relref "ctb7-pt-3" >}}) to find out how to get through the gate and its quirky locks.

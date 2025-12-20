@@ -1,12 +1,14 @@
 ---
 title: "capture the bitcoin at tab7: pt 1"
 date: 2025-11-03
+lastmod: 2025-12-20
 ---
 
 Posts in this series:
 
 1. capture the bitcoin at tab7: pt 1
 1. [capture the bitcoin at tab7: pt 2]({{< relref "ctb7-pt-2" >}})
+1. [capture the bitcoin at tab7: pt 3]({{< relref "ctb7-pt-3" >}})
 
 Every year, a conference is put on in Atlanta, GA called The Atlanta Bitcoin Conference (TABconf). This year (2025) was TAB7. There is a competition put on each year called Capture the Bitcoin or CTB. The idea is to follow the clues to find a private key and use it to sweep the address holding a bunch of sats generously donated by some of the sponsors of the conference.
 
